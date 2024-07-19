@@ -2,9 +2,9 @@
   "name": "score-board",
   "version": "1.0.0",
   "description": "A games' scoreboard application with features to add, subtract, and reset scores for two teams.",
-  "main": "script.js",  
+  "main": "script.js",
   "scripts": {
-    "start": "node script.js",  
+    "start": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "macharia",
@@ -20,3 +20,4 @@
     "score tracking"
   ]
 }
+
