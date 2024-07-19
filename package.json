@@ -1,0 +1,18 @@
+{
+  "name": "score-board",
+  "version": "1.0.0",
+  "description": "The project is basically a games' scoreboard. # plus Button  When a game is on and  a team scores a point,the add button is clicked and the score is updated accordingly to number of points the team as scored. # Minus Button On the other hand, the minus button is used to reduce the scoreson the score board,this may happen when the team commits a foal in the game and by pressing the mins button the score is updated accordingly. # Reset Button The reset button is used to reset the scores for both teams where when pressed the scores are reset to zero.This can be used when the game is finished.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "macharia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "SCORE-BOARD"
+  },
+  "keywords": [
+    "\\"
+  ]
+}
