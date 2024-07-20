@@ -12,4 +12,4 @@ The scoreBoard hepls to solve the problem of having wrong number of points given
 
 # Demo of the Scoreboard
 Here is link to how the project works. 
-https://drive.google.com/file/d/1dx2Z0JPiOmTWMYWKqNaKDahNIGFmdnF_/view?usp=drive_link
+https://score-board-flax.vercel.app/
